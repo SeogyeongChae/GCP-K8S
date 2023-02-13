@@ -20,7 +20,7 @@
 ![admin for arch](https://user-images.githubusercontent.com/110655818/217470751-b50eb232-3b82-4118-870b-c756ee857c9a.jpg)
 
 ### 1.3 Service flow architecture
-![service flow](https://user-images.githubusercontent.com/110655818/218428624-337d9c42-5e9d-44aa-99c8-7082ae4a6d03.jpg)
+![service flow](https://user-images.githubusercontent.com/110655818/218428976-7077160a-9e25-42e1-9f1b-adb3f8cdff13.jpg)
 
 ----
 ## 2. Reference
