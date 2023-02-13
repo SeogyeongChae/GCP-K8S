@@ -14,7 +14,8 @@
 ----
 ## 1. Architecture
 ### 1.1 Infra Architecture
-![gcp k8s architecture](https://user-images.githubusercontent.com/110655818/217470312-0348e41f-13a8-4c9d-a9dd-9c72686a9b35.jpg)
+![architecture](https://user-images.githubusercontent.com/110655818/218419645-7561f767-f089-4730-8479-529604d1dbbf.jpg)
+
 
 ### 1.2 Architecture for Admin
 ![admin for arch](https://user-images.githubusercontent.com/110655818/217470751-b50eb232-3b82-4118-870b-c756ee857c9a.jpg)
